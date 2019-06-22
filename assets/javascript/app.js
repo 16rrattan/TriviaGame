@@ -3,7 +3,7 @@ var questions = [
     ["Who was NOT a musician in the best movie of all time? ", "Tony Bennett", "Ray Charles", "James Brown", "Aretha Franklin"],
     ["How many cars were destoyed in the flim in total?", "104", "73", "52", "134"],
     ["Which son of a famous actor/actress participated as a stunt driver?", "John Wayne", "Dan Aykroyd", "Carrie Fisher", "Julie Andrews"],
-    ["What small cammio role did Pee-wee Herman play in the movie?", "a waiter", "a cop", "a natzi", "a churchmember"],
+    ["What small cammio role did Pee-wee Herman play in the movie?", "a waiter", "a cop", "a nazi", "a churchmember"],
     ["'We have half a pack of cigarettes, a full tank of gass, its dark out, and we're wearing sunglasses'  What do we do?", "Hit it!", "Peddle to the metal!", "Get out of here!", "Take off our sunglasses because it is dangerous to drive at night with them on!"],
     ["Permission to film in downtown Chicago only came after John Belushi and Dan Aykroyd offered to donate money to charity. How much did they offer", "$50,000", "$20,000", "$15,000", "$30,000"],
     ["Carrie Fisher used many weapons in the film. Which one did she NOT use?", "Remington 700 Shotgun", "M16", "M9-7 Flamethrower", "Prop Quad Rocket Launcher"],
