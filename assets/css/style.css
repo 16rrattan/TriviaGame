@@ -24,14 +24,14 @@ html {
 .Qcontainer {
     background-color: white;
     position: absolute;
-    top: 45%;
+    top: 55%;
     text-align: center;
     overflow: auto;
 }
 
 .header {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 200%;
     color: blue;
     margin-bottom: 0;
     padding: 10px;
@@ -39,11 +39,11 @@ html {
 
 #question {
     font-weight: bold;
-    font-size: 25px;
+    font-size: 200%;
     color: blue;
 }
 
 #displayclock {
-    font-size: 40px;
+    font-size: 200%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
