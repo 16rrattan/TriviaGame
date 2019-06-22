@@ -1,0 +1,49 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    background-color: #F3E8F8;
+}
+
+.maindiv {
+    background-image: url("../images/bbbackground.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Hcontainer {
+    background-color: white;
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    overflow: auto;
+}
+
+.Qcontainer {
+    background-color: white;
+    position: absolute;
+    top: 45%;
+    text-align: center;
+    overflow: auto;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 30px;
+    color: blue;
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+#question {
+    font-weight: bold;
+    font-size: 25px;
+    color: blue;
+}
+
+#displayclock {
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
